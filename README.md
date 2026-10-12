@@ -35,3 +35,7 @@ The datasets (Anjuke listings collected by UTSEUS, Gaode POI licensed to Shangha
 pip install -r requirements.txt
 jupyter notebook shanghai_real_estate_subway.ipynb
 ```
+
+---
+
+More projects on my portfolio: [anaisferreira.github.io/Personal-website](https://anaisferreira.github.io/Personal-website/)
